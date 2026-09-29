@@ -2,11 +2,11 @@
 
 A modern, professional-grade store management system built with C++ and Qt 5.3.2. This desktop application provides an intuitive interface for inventory management, sales operations, and store administration.
 
-## 📋 Overview
+## Overview
 
 **Gestion-Magasin** is a comprehensive solution designed to streamline retail operations. Whether you're managing a small boutique or a larger retail operation, this application offers the tools needed to efficiently handle inventory, track sales, and maintain customer relationships through a clean, user-friendly interface.
 
-## ✨ Features
+## Features
 
 - **Inventory Management**: Track stock levels, manage products, and organize warehouse operations
 - **Sales Operations**: Process transactions, handle point-of-sale activities, and generate receipts
@@ -14,7 +14,7 @@ A modern, professional-grade store management system built with C++ and Qt 5.3.2
 - **Desktop Application**: Cross-platform desktop solution with native performance
 - **Data Management**: Robust data handling and persistence for reliable business operations
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Version | Purpose |
 |-----------|---------|---------|
@@ -22,13 +22,7 @@ A modern, professional-grade store management system built with C++ and Qt 5.3.2
 | **Qt** | 5.3.2 | GUI framework and cross-platform support |
 | **QMake** | - | Build system |
 
-## 📊 Language Composition
-
-- **C++**: 97.6%
-- **C**: 1.3%
-- **QMake**: 1.1%
-
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -64,27 +58,6 @@ A modern, professional-grade store management system built with C++ and Qt 5.3.2
    ./gestion-magasin
    ```
 
-## 📁 Project Structure
-
-```
-gestion-magasin/
-├── src/              # Source files
-├── include/          # Header files
-├── ui/               # Qt UI files
-├── resources/        # Application resources
-├── CMakeLists.txt    # CMake configuration
-└── README.md         # This file
-```
-
-## 💻 Usage
-
-Launch the application and navigate through the intuitive menu system to:
-
-- Add and manage products in your inventory
-- Track stock levels and set reorder points
-- Process sales and generate transaction reports
-- View inventory analytics and insights
-
 ## 🔧 Development
 
 ### Building from Source
@@ -103,28 +76,7 @@ qmake CONFIG+=release
 make
 ```
 
-### Code Style
-
-This project follows standard C++ conventions and Qt best practices for consistency and maintainability.
-
-## 📝 License
-
-This project is provided as-is. Please check the repository for any existing license information.
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-- Report issues and bugs
-- Suggest new features
-- Submit pull requests with improvements
-- Improve documentation
-
-## 📞 Support
-
-For questions, issues, or suggestions, please open an issue on the [GitHub repository](https://github.com/JessyTsiriniaina/gestion-magasin/issues).
-
-## 🎯 Future Enhancements
+## Future Enhancements
 
 Potential areas for expansion:
 
@@ -134,8 +86,3 @@ Potential areas for expansion:
 - Mobile app companion
 - Network/cloud synchronization
 - Multi-language support
-
----
-
-**Last Updated**: 2026  
-**Repository**: [JessyTsiriniaina/gestion-magasin](https://github.com/JessyTsiriniaina/gestion-magasin)
